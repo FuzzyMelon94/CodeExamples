@@ -13,7 +13,7 @@ I've zipped the entire project, excluding the code that ran on the Pi as I'm not
 
 
 ## Wallpaper Manager - JavaScript
-An application I started to write using Electron, with Chromium as the front end, and Node.js as the backend. I decided to use Electron because it can be used to easliy create cross-platform applications. On top of this, it uses Node for the backend, which was helpful as I'd recently started learning Node and React.
+An application I started to write using Electron, with Chromium as the front end, and Node.js as the backend. I decided to use Electron because it can be used to create cross-platform applications. On top of this, it uses Node for the backend, which was helpful as I'd recently started learning Node and React.
 
 The application was intended to request images from various sources on the internet, such as Reddit and Unsplash, and set them as the desktop wallpaper. Unfortunately it isn't in a state to be built, so I've included some of the files containing the JavaScript code I've written.
 

@@ -1,10 +1,10 @@
 # WordPress Plugin
 ### Unsplashify
-A simple plugin that loads a random image from Unsplash into the top of the content of a WordPress page.
+A simple plugin, created as part of a technical test, that loads a random image from Unsplash into the top of the content of a WordPress page.
 
 There's a basic settings page to configure the size (width and height) of the random image, as well as a field for some tags.
 
-The plugin can be seen working at [plugin.tombrowndev.com.au](https://plugin.tombrowndev.com.au), or can be downloaded from this repository.
+The plugin can be downloaded from this repository - it hasn't been modified since it was created, it may not work on newer versions of WordPress.
 
 # CodeExamples
 
